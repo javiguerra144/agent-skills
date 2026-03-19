@@ -1,0 +1,4 @@
+interface:
+  display_name: "Django Expert"
+  short_description: "Build robust Django and DRF backends"
+  default_prompt: "Use $django-expert to design or implement this Django or DRF feature with solid models, serializers, views, auth, and query optimization."

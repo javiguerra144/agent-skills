@@ -1,0 +1,4 @@
+interface:
+  display_name: "Documentation Generation"
+  short_description: "Generate structured technical docs"
+  default_prompt: "Use $documentation-generation to plan, generate, or improve this technical documentation set."

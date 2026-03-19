@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Development"
+  short_description: "Build and refine modern Python systems"
+  default_prompt: "Use $python-development to guide this Python architecture or implementation task with the right references."

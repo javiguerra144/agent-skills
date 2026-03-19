@@ -1,0 +1,4 @@
+interface:
+  display_name: "JavaScript TypeScript"
+  short_description: "Modern JavaScript and TypeScript guidance"
+  default_prompt: "Use $javascript-typescript to guide this JavaScript or TypeScript task with modern patterns and references."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vue Expert JS"
+  short_description: "Build Vue 3 apps with JavaScript"
+  default_prompt: "Use $vue-expert-js to build or review this Vue 3 JavaScript codebase with JSDoc-typed patterns."

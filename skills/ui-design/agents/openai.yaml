@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design"
+  short_description: "Design accessible, scalable UI systems"
+  default_prompt: "Use $ui-design to review, design, or improve this UI or design-system task."

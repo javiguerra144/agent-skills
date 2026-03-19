@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pandas Pro"
+  short_description: "Transform and optimize DataFrame workflows"
+  default_prompt: "Use $pandas-pro to clean, transform, merge, aggregate, or optimize this pandas DataFrame workflow."

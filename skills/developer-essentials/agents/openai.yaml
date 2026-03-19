@@ -1,0 +1,4 @@
+interface:
+  display_name: "Developer Essentials"
+  short_description: "Solve core engineering workflow problems"
+  default_prompt: "Use $developer-essentials to guide this engineering workflow, debugging, review, or tooling problem."

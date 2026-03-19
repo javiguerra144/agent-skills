@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kotlin Specialist"
+  short_description: "Build idiomatic Kotlin across platforms"
+  default_prompt: "Use $kotlin-specialist to design or implement this Kotlin feature with strong coroutine, Flow, Compose, Ktor, or KMP patterns."

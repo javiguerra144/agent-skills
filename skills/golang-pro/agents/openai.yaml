@@ -1,0 +1,4 @@
+interface:
+  display_name: "Golang Pro"
+  short_description: "Build idiomatic, concurrent Go systems"
+  default_prompt: "Use $golang-pro to design or implement this Go feature with idiomatic concurrency, testing, and interfaces."

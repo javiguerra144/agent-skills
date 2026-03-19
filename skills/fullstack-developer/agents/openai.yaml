@@ -1,4 +1,0 @@
-interface:
-  display_name: "Full-Stack Developer"
-  short_description: "Build and review full-stack web apps"
-  default_prompt: "Use $fullstack-developer to build or review this full-stack feature end to end."

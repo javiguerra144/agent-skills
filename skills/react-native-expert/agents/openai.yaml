@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Native Expert"
+  short_description: "Build performant cross-platform mobile apps"
+  default_prompt: "Use $react-native-expert to design or implement this React Native or Expo feature with solid navigation, platform handling, and performance patterns."

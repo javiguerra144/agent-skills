@@ -1,0 +1,4 @@
+interface:
+  display_name: "Next.js Developer"
+  short_description: "Build modern App Router applications"
+  default_prompt: "Use $nextjs-developer to build or review this Next.js App Router feature with server-first patterns."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Backend Development"
+  short_description: "Design and build robust backends"
+  default_prompt: "Use $backend-development to guide this backend architecture or implementation task with the right references."

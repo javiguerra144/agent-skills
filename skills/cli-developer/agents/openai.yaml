@@ -1,0 +1,4 @@
+interface:
+  display_name: "CLI Developer"
+  short_description: "Build robust cross-platform CLIs"
+  default_prompt: "Use $cli-developer to design or implement this command-line interface with strong UX and cross-platform behavior."

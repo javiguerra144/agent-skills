@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Engineer"
+  short_description: "Build safe, idiomatic Rust systems"
+  default_prompt: "Use $rust-engineer to design or implement this Rust feature with strong ownership, async, traits, and error handling."

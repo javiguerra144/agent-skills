@@ -1,0 +1,4 @@
+interface:
+  display_name: "CI/CD Automation"
+  short_description: "Design and debug CI/CD workflows"
+  default_prompt: "Use $cicd-automation to design, review, or troubleshoot this CI/CD workflow or deployment pipeline."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flutter Expert"
+  short_description: "Build polished cross-platform Flutter apps"
+  default_prompt: "Use $flutter-expert to design or implement this Flutter feature with strong state management, navigation, and performance patterns."

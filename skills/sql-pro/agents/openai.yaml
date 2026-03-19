@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Pro"
+  short_description: "Tune queries and design solid schemas"
+  default_prompt: "Use $sql-pro to optimize this SQL query or schema with the right indexing, execution-plan, and dialect guidance."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Playwright Expert"
+  short_description: "Build robust Playwright E2E tests"
+  default_prompt: "Use $playwright-expert to design, debug, or improve these Playwright end-to-end tests."
