@@ -1,3 +1,8 @@
+---
+name: "conventional-commits"
+description: "Use when writing or reviewing commit messages that should follow Conventional Commits with clear type, scope, subject, optional body, breaking-change notes, and release-friendly history."
+---
+
 # Conventional Commits Skill
 
 Use this skill whenever writing commit messages. The goal is to produce clear, consistent, searchable commit history that works well for changelogs, release automation, and code review.

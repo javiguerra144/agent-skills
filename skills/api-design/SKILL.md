@@ -1,6 +1,11 @@
+---
+name: "api-design"
+description: "Use when designing, reviewing, documenting, or refactoring REST or GraphQL APIs, including resources, schemas, versioning, pagination, filtering, auth, errors, and client-facing consistency."
+---
+
 # API Design Agent Skill
 
-Use this skill whenever designing, reviewing, refactoring, documenting, or implementing APIs. It is based on the `api-design-principles` skill from `wshobson/agents`, expanded into a stricter agent-ready skill for pro([skills.sh](https://skills.sh/wshobson/agents/api-design-principles))n.
+Use this skill whenever designing, reviewing, refactoring, documenting, or implementing APIs. It is based on the `api-design-principles` skill from `wshobson/agents`, expanded into a stricter agent-ready skill for production API design.
 
 This skill applies to both REST and GraphQL APIs.
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "BEM Styling"
+  short_description: "Style UI with BEM conventions"
+  default_prompt: "Use $bem-styling to refactor this UI to clear, consistent BEM class naming."

@@ -1,3 +1,8 @@
+---
+name: "bem-styling"
+description: "Use when styling or refactoring UI code with BEM naming, including HTML or JSX markup, CSS or SCSS selectors, class renames, and maintainable component-oriented structure."
+---
+
 # Skill: Style UI Using BEM
 
 ## Purpose

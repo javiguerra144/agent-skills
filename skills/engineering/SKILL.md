@@ -1,3 +1,8 @@
+---
+name: "engineering"
+description: "Use when writing, reviewing, refactoring, or approving code and you need baseline engineering standards for readability, testing, reuse, low complexity, validation, and release readiness."
+---
+
 # Engineering Agent Skill
 
 Use this skill pack whenever writing, reviewing, refactoring, or approving code. It combines baseline programming rules with quality gates so the agent can enforce both code quality and release readiness.

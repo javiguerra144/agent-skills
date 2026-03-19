@@ -1,6 +1,6 @@
 ---
-name: fullstack-stacks
-description: Opinionated stack selector for Next.js, Astro, Node.js, Python, Go, and Rust projects. Recommends modern defaults for API, logging, validation, database, auth, env, testing, linting, and formatting.
+name: "fullstack-stacks"
+description: "Opinionated stack selector for Next.js, Astro, Node.js, Python, Go, and Rust projects. Recommends modern defaults for API, logging, validation, database, auth, env, testing, linting, and formatting."
 ---
 
 # Fullstack Stacks Skill

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fullstack Stacks"
+  short_description: "Choose modern full-stack defaults"
+  default_prompt: "Use $fullstack-stacks to choose a pragmatic stack for this web or backend project."

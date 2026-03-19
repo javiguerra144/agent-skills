@@ -1,3 +1,8 @@
+---
+name: "app-docs"
+description: "Use when writing or improving README files, docstrings, module docs, or implementation-grounded documentation for a codebase, package, script, API surface, or specific functions and classes."
+---
+
 # Skill: README and Function Documentation
 
 ## Purpose

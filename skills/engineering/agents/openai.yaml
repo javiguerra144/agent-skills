@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering"
+  short_description: "Apply baseline engineering standards"
+  default_prompt: "Use $engineering to review this work for code quality, maintainability, and release readiness."

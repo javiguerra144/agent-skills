@@ -1,6 +1,11 @@
+---
+name: "fullstack-developer"
+description: "Use when building, debugging, reviewing, or extending full-stack web applications with modern TypeScript, Node.js, PostgreSQL, Prisma, Redis, authentication, testing, and deployment workflows."
+---
+
 # Full-Stack Agent Skill
 
-Use this skill whenever building, reviewing, extending, or debugging full-stack web applications. It is optimized for modern TypeScript stacks wi([skills.sh](https://skills.sh/shubhamsaboo/awesome-llm-apps/fullstack-developer)), Node.js, PostgreSQL, Prisma, Redis, and production-grade deployment workflows.
+Use this skill whenever building, reviewing, extending, or debugging full-stack web applications. It is optimized for modern TypeScript stacks with Node.js, PostgreSQL, Prisma, Redis, and production-grade deployment workflows.
 
 This skill is based on the fullstack-developer skill from `shubhamsaboo/awesome-llm-apps`, expanded into a stricter agent-oriented version for end-to-end product delivery.
 

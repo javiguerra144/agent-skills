@@ -1,0 +1,4 @@
+interface:
+  display_name: "App Docs"
+  short_description: "Write README and code documentation"
+  default_prompt: "Use $app-docs to write or improve implementation-grounded documentation for this codebase."
