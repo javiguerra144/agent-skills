@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML CSS Refactor"
+  short_description: "Refactor HTML into HTML, React, Vue, or Angular with CSS or SASS"
+  default_prompt: "Use $html-css-refactor to rewrite this HTML into the chosen target stack, such as HTML, React, Vue, or Angular, with CSS or SASS, CSS variables, and stronger responsive UI design."

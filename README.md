@@ -30,6 +30,7 @@ skills/
 - `engineering`: General engineering standards for code quality and release readiness.
 - `flutter-expert`: Flutter and Dart guidance for widgets, Riverpod or Bloc state management, GoRouter navigation, project structure, and performance optimization.
 - `golang-pro`: Idiomatic Go guidance for concurrency, interfaces, generics, project structure, testing, and production-grade microservices.
+- `html-css-refactor`: Refactor existing HTML into semantic markup or React, Vue, or Angular output with CSS or SASS, CSS variables, responsive layout improvements, and UI polish guided by the `ui-design` skill.
 - `javascript-typescript`: Modern JavaScript and TypeScript guidance, testing, backend patterns, and scaffolding references.
 - `kotlin-specialist`: Idiomatic Kotlin guidance for coroutines, Flow, Jetpack Compose, Ktor, DSL design, and Kotlin Multiplatform architecture.
 - `nextjs-developer`: Next.js App Router guidance for server components, server actions, data fetching, SEO metadata, deployment, and server-first rendering patterns.
