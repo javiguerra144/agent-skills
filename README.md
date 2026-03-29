@@ -40,6 +40,7 @@ skills/
 - `react-expert`: Modern React and Next.js guidance for React 19, Server Components, hooks, state management, performance, testing, and class migrations.
 - `react-native-expert`: React Native and Expo guidance for navigation, platform-specific handling, list optimization, storage hooks, and project structure.
 - `rust-engineer`: Idiomatic Rust guidance for ownership, borrowing, traits, async Tokio code, error handling, testing, and systems programming.
+- `skill-selector`: Meta-skill routing that recommends the best matching skill or skill combination from this repository.
 - `sql-pro`: SQL guidance for query tuning, schema design, window functions, execution-plan analysis, indexing, and dialect-specific query migration.
 - `using-git-worktrees`: Safe git worktree setup for isolated feature work, including directory selection, ignore verification, setup, and baseline checks.
 - `ui-design`: UI and UX design guidance for design systems, accessibility, responsive layouts, web and mobile patterns, interaction design, and review workflows.
@@ -59,6 +60,30 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
 You can replace `skills/documentation-generation` with any skill path from this repository.
 
 After installing a skill, restart Codex so it picks up the new skill.
+
+## Install as a Git Submodule
+
+If you want to make the whole library available as project-local skills, you can add this repository as a git submodule at `.codex`:
+
+```bash
+git submodule add https://github.com/javiguerra144/agent-skills.git .codex
+git submodule update --init --recursive
+```
+
+That produces a layout like this:
+
+```text
+.codex/
+  README.md
+  skills/
+    documentation-generation/
+    react-expert/
+    ...
+```
+
+Codex can then discover the skills from `.codex/skills`.
+
+If your project already has files under `.codex`, do not replace that directory with this submodule. In that case, prefer the built-in installer above, or vendor the repository somewhere else and copy or link only the skill folders you need into `.codex/skills`.
 
 ## Add or Update Skills
 
