@@ -1,4 +1,0 @@
-interface:
-  display_name: "Using Git Worktrees"
-  short_description: "Create isolated git workspaces safely"
-  default_prompt: "Use $using-git-worktrees to set up an isolated worktree before implementing this change."

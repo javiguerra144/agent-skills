@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Repository Management"
+  short_description: "Manage worktrees, history, and commit hygiene"
+  default_prompt: "Use $git-repository-management to manage this repository workflow, including worktrees, branch cleanup, recovery, and Conventional Commit messages."

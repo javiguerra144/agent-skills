@@ -23,14 +23,13 @@ skills/
 - `bem-styling`: BEM-based UI styling and CSS class naming guidance.
 - `cicd-automation`: CI/CD pipeline design, workflow automation, secrets handling, Kubernetes delivery, and DevOps troubleshooting.
 - `cli-developer`: CLI design and implementation guidance for Node.js, Python, and Go, including UX, flags, prompts, and shell completions.
-- `conventional-commits`: Conventional Commit message drafting and review.
 - `django-expert`: Django and DRF guidance for models, serializers, viewsets, authentication, testing, and ORM query optimization.
 - `documentation-generation`: Technical docs, ADRs, changelogs, OpenAPI specs, tutorials, references, Mermaid diagrams, and documentation workflow guidance.
 - `developer-essentials`: Cross-cutting engineering workflow guidance for auth, debugging, code review, E2E, errors, git, monorepos, builds, and SQL optimization.
 - `engineering`: General engineering standards for code quality and release readiness.
 - `flutter-expert`: Flutter and Dart guidance for widgets, Riverpod or Bloc state management, GoRouter navigation, project structure, and performance optimization.
+- `git-repository-management`: End-to-end Git workflow guidance for worktrees, branch hygiene, rebasing, recovery, PR cleanup, and Conventional Commit messages.
 - `golang-pro`: Idiomatic Go guidance for concurrency, interfaces, generics, project structure, testing, and production-grade microservices.
-- `html-css-refactor`: Refactor existing HTML into semantic markup or React, Vue, or Angular output with CSS or SASS, CSS variables, responsive layout improvements, and UI polish guided by the `ui-design` skill.
 - `javascript-typescript`: Modern JavaScript and TypeScript guidance, testing, backend patterns, and scaffolding references.
 - `kotlin-specialist`: Idiomatic Kotlin guidance for coroutines, Flow, Jetpack Compose, Ktor, DSL design, and Kotlin Multiplatform architecture.
 - `nextjs-developer`: Next.js App Router guidance for server components, server actions, data fetching, SEO metadata, deployment, and server-first rendering patterns.
@@ -42,7 +41,6 @@ skills/
 - `rust-engineer`: Idiomatic Rust guidance for ownership, borrowing, traits, async Tokio code, error handling, testing, and systems programming.
 - `skill-selector`: Meta-skill routing that recommends the best matching skill or skill combination from this repository.
 - `sql-pro`: SQL guidance for query tuning, schema design, window functions, execution-plan analysis, indexing, and dialect-specific query migration.
-- `using-git-worktrees`: Safe git worktree setup for isolated feature work, including directory selection, ignore verification, setup, and baseline checks.
 - `ui-design`: UI and UX design guidance for design systems, accessibility, responsive layouts, web and mobile patterns, interaction design, and review workflows.
 - `vue-expert-js`: Vue 3 JavaScript-only guidance using Composition API plus JSDoc typing, composables, state management, and testing patterns.
 - `fullstack-stacks`: Opinionated stack selection for web and backend projects.

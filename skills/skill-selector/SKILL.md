@@ -23,8 +23,6 @@ Use this skill when the task is meta-level skill routing rather than direct impl
 - Prefer `developer-essentials` for broad engineering workflow problems when no narrower skill is a better fit.
 - Prefer `engineering` for general quality, maintainability, and release-readiness guidance.
 - Prefer `documentation-generation` for formal technical docs and `app-docs` for README and code documentation.
-- Prefer `using-git-worktrees` only for narrowly scoped worktree setup.
-- Prefer `conventional-commits` only for narrowly scoped commit-message drafting or review.
 - If the request is mostly stack choice, prefer `fullstack-stacks` instead of a framework-specific skill.
 - If the request already names a framework or language, prefer the corresponding specialist skill.
 
@@ -35,13 +33,13 @@ Use this skill when the task is meta-level skill routing rather than direct impl
 - `bem-styling` -> BEM naming, CSS architecture, and class refactors.
 - `cicd-automation` -> CI/CD pipelines, workflow automation, deployments, and secrets handling.
 - `cli-developer` -> CLI design, flags, prompts, shell UX, and command architecture.
-- `conventional-commits` -> Conventional Commit drafting, cleanup, and review.
 - `developer-essentials` -> auth, debugging, git, code review, E2E, errors, monorepos, builds, and SQL optimization.
 - `django-expert` -> Django, DRF, models, serializers, viewsets, auth, and ORM tuning.
 - `documentation-generation` -> ADRs, changelogs, OpenAPI docs, tutorials, references, and Mermaid diagrams.
 - `engineering` -> general engineering quality, architecture sanity, code review standards, and release readiness.
 - `flutter-expert` -> Flutter, Dart, widgets, Riverpod or Bloc, GoRouter, and app structure.
 - `fullstack-stacks` -> selecting pragmatic modern stacks across web and backend ecosystems.
+- `git-repository-management` -> worktrees, branch hygiene, rebasing, recovery, release cleanup, and commit-process guidance across the full Git workflow.
 - `golang-pro` -> idiomatic Go, concurrency, interfaces, testing, and production services.
 - `javascript-typescript` -> modern JavaScript and TypeScript implementation and testing guidance.
 - `kotlin-specialist` -> Kotlin, coroutines, Flow, Compose, Ktor, DSLs, and multiplatform architecture.
@@ -54,7 +52,6 @@ Use this skill when the task is meta-level skill routing rather than direct impl
 - `rust-engineer` -> Rust ownership, traits, async Tokio code, error handling, and systems programming.
 - `sql-pro` -> SQL query tuning, schema design, indexing, execution-plan analysis, and dialect migrations.
 - `ui-design` -> UI and UX design, design systems, accessibility, responsive layout, and interaction review.
-- `using-git-worktrees` -> safe git worktree setup for isolated feature development.
 - `vue-expert-js` -> Vue 3 with Composition API in JavaScript, composables, state management, and testing.
 
 ## Common Combinations
