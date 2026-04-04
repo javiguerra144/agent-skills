@@ -1,4 +1,4 @@
 interface:
   display_name: "Skill Selector"
   short_description: "Choose the right skill for a task"
-  default_prompt: "Use $skill-selector to recommend the best skill or skill combination for this task."
+  default_prompt: "Use $skill-selector to recommend the best skill combination for this task, always treating $engineering as the base skill and adding the most specific specialists needed."

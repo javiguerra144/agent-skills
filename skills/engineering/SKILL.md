@@ -23,6 +23,68 @@ Produce code that is:
 
 Prefer boring, predictable solutions over clever ones.
 
+## Required Implementation Workflow
+
+Every implementation task must explicitly satisfy **code**, **tests**, and **documentation**. A change is not complete when only the code is written.
+
+1. Understand the change
+2. Implement the code
+3. Add or update tests
+4. Add or update documentation
+5. Run the relevant verification gates
+
+### 1. Understand the change
+
+Before editing, identify:
+
+* The behavior being added, changed, or fixed
+* The system boundaries affected
+* The risks of regression
+* The tests and docs that should move with the change
+
+### 2. Implement the code
+
+When writing code:
+
+* Make the smallest change that correctly solves the problem
+* Reuse existing utilities and modules before adding new ones
+* Keep logic, validation, and side effects separated
+* Leave the codebase in a cleaner state than you found it when practical
+
+### 3. Add or update tests
+
+Every behavior change requires test consideration.
+
+* Add tests for new logic
+* Update tests for changed behavior
+* Add regression tests for bug fixes
+* Cover edge cases and failure paths when they matter to the change
+
+Do not treat testing as optional follow-up work.
+
+### 4. Add or update documentation
+
+Every change requires documentation consideration.
+
+Update the relevant documentation for:
+
+* Behavior changes visible to users or developers
+* New configuration, environment variables, or feature flags
+* API, CLI, schema, or workflow changes
+* Non-obvious constraints, caveats, or rollout requirements
+
+Documentation may live in code comments, docstrings, README files, runbooks, API docs, or other local project docs, depending on what changed.
+
+### 5. Run the relevant verification gates
+
+Before considering the implementation complete:
+
+* Run the relevant build, lint, format, type-check, and test commands
+* Verify the docs stay aligned with the implementation
+* Confirm the code, tests, and docs all describe the same behavior
+
+If one of code, tests, or documentation is missing when it should exist, the implementation is incomplete.
+
 ## Core Rules
 
 ### 1. Keep complexity low
